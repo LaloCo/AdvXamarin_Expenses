@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExpensesApp.Views.ExpensesPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Icon="add.png"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <ListView>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>
