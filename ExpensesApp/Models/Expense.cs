@@ -59,7 +59,7 @@ namespace ExpensesApp.Models
 
         public static List<Expense> GetExpenses()
         {
-            using (SQLite.SQLiteConnection conn = new SQLiteConnection(App.DatabasePath))
+            using (SQLiteConnection conn = new SQLiteConnection(App.DatabasePath))
             {
                 conn.CreateTable<Expense>();
                 return conn.Table<Expense>().ToList();
