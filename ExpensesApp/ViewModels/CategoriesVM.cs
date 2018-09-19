@@ -40,8 +40,9 @@ namespace ExpensesApp.ViewModels
             Categories.Add("Other");
         }
 
-        private void GetExpensesPerCategory()
+        public void GetExpensesPerCategory()
         {
+            CategoryExpensesCollection.Clear();
             float totalExpensesAmmount = Expense.TotalExpensesAmmount();
             foreach(string c in Categories)
             {

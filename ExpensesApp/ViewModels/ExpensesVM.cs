@@ -28,7 +28,7 @@ namespace ExpensesApp.ViewModels
             GetExpenses();
         }
 
-        private void GetExpenses()
+        public void GetExpenses()
         {
             var expenses = Expense.GetExpenses();
 
