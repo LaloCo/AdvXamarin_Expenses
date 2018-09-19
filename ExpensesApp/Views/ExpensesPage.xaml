@@ -16,10 +16,11 @@
     </ContentPage.ToolbarItems>
     
     <ContentPage.Content>
-        <ListView>
+        <ListView ItemsSource="{Binding Source={StaticResource vm}, Path=Expenses}">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <TextCell/>
+                    <TextCell Text="{Binding Name}"
+                              Detail="{Binding Category}"/>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
