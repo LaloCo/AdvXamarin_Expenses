@@ -14,6 +14,8 @@ namespace ExpensesApp
         {
             InitializeComponent();
 
+            DatabasePath = string.Empty;
+
             MainPage = new NavigationPage(new MainPage());
         }
 
