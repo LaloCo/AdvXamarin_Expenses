@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.ObjectModel;
+using ExpensesApp.Interfaces;
 using ExpensesApp.Models;
 using ExpensesApp.Views;
 using Xamarin.Forms;
@@ -43,6 +44,12 @@ namespace ExpensesApp.ViewModels
         public void AddExpense()
         {
             Application.Current.MainPage.Navigation.PushAsync(new NewExpensePage());
+        }
+
+        public void ShareReport()
+        {
+            IShare share;
+            // share.Show("", "", "");
         }
     }
 }
