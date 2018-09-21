@@ -20,7 +20,7 @@
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <TextCell Text="{Binding Name}"
-                              StyleId="checkmark"
+                              StyleId="detail-disclosure-button"
                               Detail="{Binding Category}"/>
                 </DataTemplate>
             </ListView.ItemTemplate>
