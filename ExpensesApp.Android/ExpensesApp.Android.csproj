@@ -104,6 +104,7 @@
     <AndroidResource Include="Resources\drawable-xhdpi\add.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\add.png" />
     <AndroidResource Include="Resources\drawable-xxxhdpi\add.png" />
+    <AndroidResource Include="Resources\xml\file_provider_paths.xml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />
@@ -113,6 +114,7 @@
     <Folder Include="Resources\drawable-xxxhdpi\" />
     <Folder Include="CustomRenderers\" />
     <Folder Include="Dependencies\" />
+    <Folder Include="Resources\xml\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ExpensesApp\ExpensesApp.csproj">
