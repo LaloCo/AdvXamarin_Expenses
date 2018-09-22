@@ -43,14 +43,7 @@ namespace ExpensesApp.ViewModels
 
         public void AddExpense()
         {
-            ShareReport();
             Application.Current.MainPage.Navigation.PushAsync(new NewExpensePage());
-        }
-
-        public void ShareReport()
-        {
-            IShare shareDependency = DependencyService.Get<IShare>();
-            shareDependency.Show("", "", "");
         }
     }
 }
