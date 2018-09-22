@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-
+using ExpensesApp.iOS.Dependencies;
 using Foundation;
 using UIKit;
+using Xamarin.Forms;
 
 namespace ExpensesApp.iOS
 {
