@@ -19,5 +19,9 @@
     <Folder Include="Models\" />
     <Folder Include="ViewModels\" />
     <Folder Include="Interfaces\" />
+    <Folder Include="Behaviors\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Behaviors\DescriptionValidationBehavior.cs" />
   </ItemGroup>
 </Project>
