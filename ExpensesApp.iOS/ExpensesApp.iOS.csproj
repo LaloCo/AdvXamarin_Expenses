@@ -104,6 +104,7 @@
     <Compile Include="CustomRenderers\CustomProgressBarRenderer.cs" />
     <Compile Include="CustomRenderers\CustomTextCellRenderer.cs" />
     <Compile Include="Dependencies\Share.cs" />
+    <Compile Include="Effects\SelectedEffect.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
@@ -180,5 +181,6 @@
   <ItemGroup>
     <Folder Include="CustomRenderers\" />
     <Folder Include="Dependencies\" />
+    <Folder Include="Effects\" />
   </ItemGroup>
 </Project>

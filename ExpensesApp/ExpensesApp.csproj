@@ -20,6 +20,7 @@
     <Folder Include="ViewModels\" />
     <Folder Include="Interfaces\" />
     <Folder Include="Behaviors\" />
+    <Folder Include="Effects\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Behaviors\DescriptionValidationBehavior.cs" />
