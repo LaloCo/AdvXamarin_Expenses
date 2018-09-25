@@ -15,7 +15,7 @@ namespace ExpensesApp.iOS.Effects
 
         protected override void OnAttached()
         {
-            selectedColor = new UIColor(176 / 255, 152 / 255, 164 / 255, 255 / 255);
+            selectedColor = new UIColor(176.0f / 255, 152.0f / 255, 164.0f / 255, 255.0f / 255);
         }
 
         protected override void OnElementPropertyChanged(PropertyChangedEventArgs args)
