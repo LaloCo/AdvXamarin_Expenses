@@ -21,6 +21,7 @@
     <Folder Include="Interfaces\" />
     <Folder Include="Behaviors\" />
     <Folder Include="Effects\" />
+    <Folder Include="Stylesheets\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Behaviors\DescriptionValidationBehavior.cs" />
