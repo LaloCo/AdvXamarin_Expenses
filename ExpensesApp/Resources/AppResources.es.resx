@@ -40,4 +40,10 @@
         <value>Otros</value>
         <comment>This string is the name of one of the categories</comment>
     </data>
+    <data name="title">
+        <value>Categorías</value>
+    </data>
+    <data name="buttonLabel">
+        <value>Botón</value>
+    </data>
 </root>

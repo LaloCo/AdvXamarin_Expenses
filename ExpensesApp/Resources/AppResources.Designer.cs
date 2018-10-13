@@ -88,5 +88,17 @@ namespace ExpensesApp.Resources {
                 return ResourceManager.GetString("otherCategory", resourceCulture);
             }
         }
+        
+        internal static string title {
+            get {
+                return ResourceManager.GetString("title", resourceCulture);
+            }
+        }
+        
+        internal static string buttonLabel {
+            get {
+                return ResourceManager.GetString("buttonLabel", resourceCulture);
+            }
+        }
     }
 }
