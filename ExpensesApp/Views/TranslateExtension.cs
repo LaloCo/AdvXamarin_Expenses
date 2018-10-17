@@ -2,6 +2,7 @@
 using System.Globalization;
 using System.Reflection;
 using System.Resources;
+using ExpensesApp.Resources;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -21,7 +22,7 @@ namespace ExpensesApp.Views
 
         public TranslateExtension()
         {
-            ci = CultureInfo.CurrentCulture;
+            ci = AppResources.Culture;
         }
 
         public object ProvideValue(IServiceProvider serviceProvider)

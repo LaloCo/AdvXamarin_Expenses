@@ -25,7 +25,7 @@ namespace ExpensesApp
         {
             InitializeComponent();
 
-            // AppResources.Culture = new System.Globalization.CultureInfo("es");
+            AppResources.Culture = new System.Globalization.CultureInfo("es");
 
             DatabasePath = databasePath;
 
