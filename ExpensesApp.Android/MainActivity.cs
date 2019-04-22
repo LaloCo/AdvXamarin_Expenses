@@ -9,6 +9,7 @@ using Android.OS;
 using System.IO;
 using Xamarin.Forms;
 using ExpensesApp.Droid.Dependencies;
+using Plugin.CurrentActivity;
 
 namespace ExpensesApp.Droid
 {
@@ -22,6 +23,9 @@ namespace ExpensesApp.Droid
 
             base.OnCreate(savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+
+            // added using Plugin.CurrentActivity;
+            CrossCurrentActivity.Current.Init(this, savedInstanceState);
 
             string db_name = "expenses_db.db3";
             string folder_path = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
