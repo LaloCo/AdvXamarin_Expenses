@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.ObjectModel;
+using ExpensesApp.Interfaces;
 using ExpensesApp.Models;
 using ExpensesApp.Views;
 using Xamarin.Forms;

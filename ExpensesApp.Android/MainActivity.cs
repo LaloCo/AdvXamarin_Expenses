@@ -7,6 +7,8 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 using System.IO;
+using Xamarin.Forms;
+using ExpensesApp.Droid.Dependencies;
 
 namespace ExpensesApp.Droid
 {

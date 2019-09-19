@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Globalization;
+using ExpensesApp.Resources;
 using ExpensesApp.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -22,6 +24,8 @@ namespace ExpensesApp
         public App(string databasePath)
         {
             InitializeComponent();
+
+            AppResources.Culture = new System.Globalization.CultureInfo("es");
 
             DatabasePath = databasePath;
 
