@@ -4,7 +4,6 @@ using ExpensesApp.Droid.CustomRenderers;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.Android;
 
-[assembly: ExportRenderer(typeof(ProgressBar), typeof(CustomProgressBarRenderer))]
 namespace ExpensesApp.Droid.CustomRenderers
 {
     public class CustomProgressBarRenderer : ProgressBarRenderer

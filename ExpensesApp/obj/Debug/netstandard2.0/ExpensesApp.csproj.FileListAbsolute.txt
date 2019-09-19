@@ -1,0 +1,14 @@
+/Users/eduardorosas/Documents/repos/ExpensesApp/ExpensesApp/bin/Debug/netstandard2.0/ExpensesApp.deps.json
+/Users/eduardorosas/Documents/repos/ExpensesApp/ExpensesApp/bin/Debug/netstandard2.0/ExpensesApp.dll
+/Users/eduardorosas/Documents/repos/ExpensesApp/ExpensesApp/bin/Debug/netstandard2.0/ExpensesApp.pdb
+/Users/eduardorosas/Documents/repos/ExpensesApp/ExpensesApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/eduardorosas/Documents/repos/ExpensesApp/ExpensesApp/obj/Debug/netstandard2.0/Views/CategoriesPage.xaml.g.cs
+/Users/eduardorosas/Documents/repos/ExpensesApp/ExpensesApp/obj/Debug/netstandard2.0/Views/ExpensesPage.xaml.g.cs
+/Users/eduardorosas/Documents/repos/ExpensesApp/ExpensesApp/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/eduardorosas/Documents/repos/ExpensesApp/ExpensesApp/obj/Debug/netstandard2.0/Views/NewExpensePage.xaml.g.cs
+/Users/eduardorosas/Documents/repos/ExpensesApp/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.csproj.CoreCompileInputs.cache
+/Users/eduardorosas/Documents/repos/ExpensesApp/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.AssemblyInfoInputs.cache
+/Users/eduardorosas/Documents/repos/ExpensesApp/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.AssemblyInfo.cs
+/Users/eduardorosas/Documents/repos/ExpensesApp/ExpensesApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/eduardorosas/Documents/repos/ExpensesApp/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.dll
+/Users/eduardorosas/Documents/repos/ExpensesApp/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.pdb
