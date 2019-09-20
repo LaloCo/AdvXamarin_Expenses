@@ -1,12 +1,27 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{B43B19C8-9E06-4E2E-9212-D9D9F0A43EEE}|Default">
-  <MonoDevelop.Ide.ItemProperties.ExpensesApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3A4AE9B7-C4B9-4620-908E-4868A54F5348" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ExpensesApp.Android/CustomRenderers/CustomViewCellRenderer.cs">
+﻿<Properties StartupConfiguration="{B43B19C8-9E06-4E2E-9212-D9D9F0A43EEE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExpensesApp.Android/CustomRenderers/CustomTextCellRenderer.cs">
     <Files>
-      <File FileName="ExpensesApp/Views/CategoriesPage.xaml" Line="17" Column="30" />
-      <File FileName="ExpensesApp.Android/CustomRenderers/CustomViewCellRenderer.cs" Line="33" Column="17" />
+      <File FileName="ExpensesApp.Android/CustomRenderers/CustomViewCellRenderer.cs" Line="1" Column="1" />
+      <File FileName="ExpensesApp.Android/CustomRenderers/CustomTextCellRenderer.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExpensesApp" expanded="True">
+            <Node name="ExpensesApp" expanded="True">
+              <Node name="Views" expanded="True" />
+            </Node>
+            <Node name="ExpensesApp.Android" expanded="True">
+              <Node name="CustomRenderers" expanded="True">
+                <Node name="CustomTextCellRenderer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ExpensesApp.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.ExpensesApp.Android PreferredExecutionTarget="Android.my_device" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

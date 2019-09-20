@@ -2,7 +2,7 @@ package md51558244f76c53b6aeda52c8a337f2c37;
 
 
 public abstract class EdgeSnapHelper
-	extends android.support.v7.widget.LinearSnapHelper
+	extends md51558244f76c53b6aeda52c8a337f2c37.NongreedySnapHelper
 	implements
 		mono.android.IGCUserPeer
 {

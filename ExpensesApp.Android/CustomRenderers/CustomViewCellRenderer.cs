@@ -17,8 +17,11 @@ namespace ExpensesApp.Droid.CustomRenderers
         protected override Android.Views.View GetCellCore(Cell item, Android.Views.View convertView, ViewGroup parent, Context context)
         {
             _cell = base.GetCellCore(item, convertView, parent, context);
+
             _isSelected = false;
             _defaultBackground = _cell.Background;
+
+            _cell.SetBackgroundColor(Android.Graphics.Color.Transparent);
 
             return _cell;
         }
@@ -37,7 +40,8 @@ namespace ExpensesApp.Droid.CustomRenderers
                 }
                 else
                 {
-                    _cell.Background = _defaultBackground;
+                    //? _cell.Background = _defaultBackground;
+                    _cell.SetBackgroundColor(Android.Graphics.Color.Transparent);
                 }
             }
         }
