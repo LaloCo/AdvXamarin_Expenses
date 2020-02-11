@@ -23,16 +23,53 @@
             <TableView x:Name="expenseTableView">
                 <TableRoot>
                     <TableSection>
-                        <EntryCell Label="Name:"
-                                   Placeholder="Expense name"
-                                   Text="{Binding ExpenseName, Mode=TwoWay}"/>
-                        <EntryCell Label="Ammount:"
-                                   Keyboard="Numeric"
-                                   Placeholder="Expense ammount"
-                                   Text="{Binding ExpenseAmmount, Mode=TwoWay}"/>
-                        <EntryCell Label="Description:"
-                                   Placeholder="Short description"
-                                   Text="{Binding ExpenseDescription, Mode=TwoWay}"/>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal"
+                                         Margin="16,0">
+                                <Label Text="Name:"
+                                       VerticalOptions="Center"/>
+                                <Entry Text="{Binding ExpenseName, Mode=TwoWay}"
+                                       Keyboard="Numeric"
+                                       Placeholder="Expense name"
+                                       VerticalOptions="Center"
+                                       HorizontalOptions="FillAndExpand">
+                                    <Entry.Effects>
+                                        <effects:SelectedEffect/>
+                                    </Entry.Effects>
+                                </Entry>
+                            </StackLayout>
+                        </ViewCell>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal"
+                                         Margin="16,0">
+                                <Label Text="Ammount:"
+                                       VerticalOptions="Center"/>
+                                <Entry Text="{Binding ExpenseAmmount, Mode=TwoWay}"
+                                       Keyboard="Numeric"
+                                       Placeholder="Expense amount"
+                                       VerticalOptions="Center"
+                                       HorizontalOptions="FillAndExpand">
+                                    <Entry.Effects>
+                                        <effects:SelectedEffect/>
+                                    </Entry.Effects>
+                                </Entry>
+                            </StackLayout>
+                        </ViewCell>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal"
+                                         Margin="16,0">
+                                <Label Text="Description:"
+                                       VerticalOptions="Center"/>
+                                <Entry Text="{Binding ExpenseDescription, Mode=TwoWay}"
+                                       Placeholder="Short description"
+                                       VerticalOptions="Center"
+                                       HorizontalOptions="FillAndExpand">
+                                    <Entry.Effects>
+                                        <effects:SelectedEffect/>
+                                    </Entry.Effects>
+                                </Entry>
+                            </StackLayout>
+                        </ViewCell>
                         <ViewCell>
                             <StackLayout Orientation="Horizontal"
                                          Margin="16,0">

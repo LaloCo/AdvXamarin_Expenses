@@ -1342,11 +1342,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp.Android/ExpensesApp.Android.csproj",
+      "projectUniqueName": "/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp.Android/ExpensesApp.Android.csproj",
       "projectName": "ExpensesApp.Android",
-      "projectPath": "/Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp.Android/ExpensesApp.Android.csproj",
+      "projectPath": "/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp.Android/ExpensesApp.Android.csproj",
       "packagesPath": "/Users/eduardorosas/.nuget/packages/",
-      "outputPath": "/Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp.Android/obj/",
+      "outputPath": "/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1361,8 +1361,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp/ExpensesApp.csproj": {
-              "projectPath": "/Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp/ExpensesApp.csproj"
+            "/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/ExpensesApp.csproj": {
+              "projectPath": "/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/ExpensesApp.csproj"
             }
           }
         }
