@@ -33,3 +33,24 @@
 /Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/es/ExpensesApp.resources.dll
 /Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.dll
 /Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.pdb
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/bin/Debug/netstandard2.0/ExpensesApp.deps.json
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/bin/Debug/netstandard2.0/ExpensesApp.dll
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/bin/Debug/netstandard2.0/ExpensesApp.pdb
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/bin/Debug/netstandard2.0/es/ExpensesApp.resources.dll
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.csprojAssemblyReference.cache
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.Resources.AppResources.resources
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.Resources.AppResources.es.resources
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.csproj.GenerateResource.cache
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/Views/CategoriesPage.xaml.g.cs
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/Views/ExpenseDetailsPage.xaml.g.cs
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/Views/ExpensesPage.xaml.g.cs
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/Views/NewExpensePage.xaml.g.cs
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/Stylesheets/styles.css.g.cs
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.AssemblyInfoInputs.cache
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.AssemblyInfo.cs
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/es/ExpensesApp.resources.dll
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.dll
+/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.pdb

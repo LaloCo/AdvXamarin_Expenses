@@ -834,11 +834,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp/ExpensesApp.csproj",
+      "projectUniqueName": "/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/ExpensesApp.csproj",
       "projectName": "ExpensesApp",
-      "projectPath": "/Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp/ExpensesApp.csproj",
+      "projectPath": "/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/ExpensesApp.csproj",
       "packagesPath": "/Users/eduardorosas/.nuget/packages/",
-      "outputPath": "/Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp/obj/",
+      "outputPath": "/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -886,10 +886,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -898,7 +904,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.Bcl 1.1.6' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'Microsoft.Bcl 1.1.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.Bcl",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -908,7 +914,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.Bcl.Async 1.0.165' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'Microsoft.Bcl.Async 1.0.165' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.Bcl.Async",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -918,7 +924,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'PCLStorage 1.0.2' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'PCLStorage 1.0.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
       "libraryId": "PCLStorage",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"

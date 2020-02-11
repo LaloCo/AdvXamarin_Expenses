@@ -1206,11 +1206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp.iOS/ExpensesApp.iOS.csproj",
+      "projectUniqueName": "/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp.iOS/ExpensesApp.iOS.csproj",
       "projectName": "ExpensesApp.iOS",
-      "projectPath": "/Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp.iOS/ExpensesApp.iOS.csproj",
+      "projectPath": "/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp.iOS/ExpensesApp.iOS.csproj",
       "packagesPath": "/Users/eduardorosas/.nuget/packages/",
-      "outputPath": "/Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp.iOS/obj/",
+      "outputPath": "/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1225,8 +1225,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp/ExpensesApp.csproj": {
-              "projectPath": "/Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp/ExpensesApp.csproj"
+            "/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/ExpensesApp.csproj": {
+              "projectPath": "/Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/ExpensesApp.csproj"
             }
           }
         }

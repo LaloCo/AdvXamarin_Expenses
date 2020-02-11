@@ -1,20 +1,19 @@
 ﻿<Properties StartupConfiguration="{B43B19C8-9E06-4E2E-9212-D9D9F0A43EEE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ExpensesApp.Android/CustomRenderers/CustomTextCellRenderer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExpensesApp/Views/NewExpensePage.xaml">
     <Files>
-      <File FileName="ExpensesApp.Android/CustomRenderers/CustomViewCellRenderer.cs" Line="1" Column="1" />
-      <File FileName="ExpensesApp.Android/CustomRenderers/CustomTextCellRenderer.cs" Line="1" Column="1" />
+      <File FileName="ExpensesApp/Views/NewExpensePage.xaml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ExpensesApp" expanded="True">
             <Node name="ExpensesApp" expanded="True">
-              <Node name="Views" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="NewExpensePage.xaml" selected="True" />
+              </Node>
             </Node>
             <Node name="ExpensesApp.Android" expanded="True">
-              <Node name="CustomRenderers" expanded="True">
-                <Node name="CustomTextCellRenderer.cs" selected="True" />
-              </Node>
+              <Node name="CustomRenderers" expanded="True" />
             </Node>
           </Node>
         </State>
