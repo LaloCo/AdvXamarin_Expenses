@@ -18,7 +18,12 @@ namespace ExpensesApp.iOS.Dependencies
             var activityController = new UIActivityViewController(items, null);
 
             if (activityController.PopoverPresentationController != null)
+            {
                 activityController.PopoverPresentationController.SourceView = viewController.View;
+
+                if (UIDevice.CurrentDevice.UserInterfaceIdiom == UIUserInterfaceIdiom.Pad)
+                    activityController.PopoverPresentationController.SourceRect = new System.Drawing.Rectangle(0, 20, 0, 0);
+            }
 
             await viewController.PresentViewControllerAsync(activityController, true);
         }
