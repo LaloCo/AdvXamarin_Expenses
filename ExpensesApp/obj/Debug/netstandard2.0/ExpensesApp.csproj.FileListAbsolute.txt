@@ -54,3 +54,4 @@
 /Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/es/ExpensesApp.resources.dll
 /Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.dll
 /Users/eduardorosas/Documents/Visual Studio 2019/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.pdb
+/Users/eduardorosas/Projects/AdvXamarin_Expenses/ExpensesApp/obj/Debug/netstandard2.0/ExpensesApp.csprojAssemblyReference.cache

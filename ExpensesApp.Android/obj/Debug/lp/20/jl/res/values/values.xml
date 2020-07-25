@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item name="ghost_view" type="id"/>
-    <item name="parent_matrix" type="id"/>
-    <item name="save_image_matrix" type="id"/>
-    <item name="save_non_transition_alpha" type="id"/>
-    <item name="save_scale_type" type="id"/>
-    <item name="transition_current_scene" type="id"/>
-    <item name="transition_layout_save" type="id"/>
-    <item name="transition_position" type="id"/>
-    <item name="transition_scene_layoutid_cache" type="id"/>
-    <item name="transition_transform" type="id"/>
+    <color name="browser_actions_bg_grey">#F5F5F5</color>
+    <color name="browser_actions_divider_color">#1E000000</color>
+    <color name="browser_actions_text_color">#DE000000</color>
+    <color name="browser_actions_title_color">#646464</color>
+    <dimen name="browser_actions_context_menu_max_width">500dp</dimen>
+    <dimen name="browser_actions_context_menu_min_padding">20dp</dimen>
 </resources>

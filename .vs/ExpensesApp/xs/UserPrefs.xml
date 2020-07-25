@@ -1,19 +1,26 @@
 ﻿<Properties StartupConfiguration="{B43B19C8-9E06-4E2E-9212-D9D9F0A43EEE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ExpensesApp/Views/NewExpensePage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExpensesApp/ViewModels/CategoriesVM.cs">
     <Files>
-      <File FileName="ExpensesApp/Views/NewExpensePage.xaml" Line="1" Column="1" />
+      <File FileName="ExpensesApp.Android/Dependencies/Share.cs" Line="10" Column="10" />
+      <File FileName="ExpensesApp.Android/Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="ExpensesApp.Android/Resources/xml/file_provider_paths.xml" Line="1" Column="1" />
+      <File FileName="ExpensesApp/ViewModels/CategoriesVM.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ExpensesApp" expanded="True">
             <Node name="ExpensesApp" expanded="True">
-              <Node name="Views" expanded="True">
-                <Node name="NewExpensePage.xaml" selected="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="CategoriesVM.cs" selected="True" />
               </Node>
             </Node>
             <Node name="ExpensesApp.Android" expanded="True">
-              <Node name="CustomRenderers" expanded="True" />
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="xml" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>

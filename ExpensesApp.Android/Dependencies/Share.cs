@@ -23,7 +23,8 @@ namespace ExpensesApp.Droid.Dependencies
             intent.PutExtra(Intent.ExtraSubject, message);
 
             var chooserIntent = Intent.CreateChooser(intent, title);
-            chooserIntent.SetFlags(ActivityFlags.GrantReadUriPermission);
+            chooserIntent.AddFlags(ActivityFlags.NewTask);
+            chooserIntent.AddFlags(ActivityFlags.GrantReadUriPermission);
             Android.App.Application.Context.StartActivity(chooserIntent);
 
             return Task.FromResult(true);
